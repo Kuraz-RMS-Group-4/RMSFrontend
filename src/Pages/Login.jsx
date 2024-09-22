@@ -1,6 +1,5 @@
 import{ Link } from "react-router-dom";
-import {BiUser} from "react-icons/bi";
-import {AiOutlineUnlock} from "react-icons/ai";
+
 
 const Login=() => {
     return (
